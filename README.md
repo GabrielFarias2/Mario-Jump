@@ -1,2 +1,2 @@
-uma copia do jogo do mario feito com js
-
+## demo do projeto
+https://gabrielfarias2.github.io/Mario-Jump/
